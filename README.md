@@ -25,6 +25,12 @@ Tracks the multi-phase migration process related to **CVE-2023-24932** (BlackLot
                                                    └──────────────┘
 ```
 
+## Screenshots
+
+![BlackLotus-Inventory](screenshots/Dashboard.png)
+
+![BlackLotus-Inventory](screenshots/Info.png)
+
 ## Quick Start
 
 1. **Install dependencies:**
