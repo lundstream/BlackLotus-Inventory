@@ -1,0 +1,15 @@
+{
+  "siteName": "Secure Boot Inventory",
+  "server": {
+    "port": 3001
+  },
+  "footerText": "© 2026 Secure Boot Inventory",
+  "apiKey": "CHANGE-ME-TO-A-STRONG-SECRET",
+  "trustedNetworks": [
+    "10.0.0.0/8",
+    "172.16.0.0/12",
+    "192.168.0.0/16",
+    "127.0.0.0/8",
+    "::1/128"
+  ]
+}

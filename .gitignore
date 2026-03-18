@@ -1,0 +1,7 @@
+node_modules/
+*.log
+secureboot.db
+secureboot.db-wal
+secureboot.db-shm
+settings.json
+iisnode/
